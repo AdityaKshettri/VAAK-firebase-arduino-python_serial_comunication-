@@ -10,7 +10,7 @@ VAAK is a college project under the TARP course. Under this course we had to mak
   - Naman Arora(Me)
   - Rishabh Agarwal
   - Soham Sengupta
-  - Aditya Kshetriya
+  - Aditya Kshettri
   - Arpan Satpathi
   - Dharoori Rakesh Acharya
 
